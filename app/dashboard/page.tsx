@@ -1,3 +1,3 @@
 export default function Page() {
-    return <p>Dashboard Pagesss</p>;
+    return <p>Welcome to AHJIN Manhua and Manga</p>;
   }
